@@ -1,7 +1,7 @@
 ## @Wessnom
 
 - Studying at ITHS in Gothenburg.
-- 🌱 I’m currently learning Python @ ITHS
+- Program: AI & Machine Learning
 <br>https://www.iths.se/
 
 <!---
